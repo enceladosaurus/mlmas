@@ -8,9 +8,9 @@ The 12 days of Machine Learning-mas are beginner-friendly tutorials on the basic
 - Dec. 19th: Linear Regression
 - Dec. 20th: Logistic Regression
 - Dec. 21st: Classification
-- Dec. 23rd: Ensembling - Random Forest
-- Dec. 27th: K-Means
-- Dec. 28th: Anomaly Detection
+- Dec. 27th: Ensembling - Random Forest
+- Dec. 28th: K-Means
+- Dec. 29th: Anomaly Detection
 - Dec. 30th: Reinforcement Learning
 - Jan. 2nd: Neural Nets 101
 - Jan. 4th: Q-Networks
