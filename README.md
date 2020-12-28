@@ -20,4 +20,7 @@ The 12 days of Machine Learning-mas are beginner-friendly tutorials on the basic
 
 
 ### Details
-Each tutorial will cover a specific topic or model in machine learning, and the code will be written in Python. Simpler models will be built in Jupyter Notebooks for ease of explanation and visualization, but later models will be script-only. For more information or if you have questions, please join the [Discord](https://discord.gg/4QUDdWn) or reach out on [Twitter](https://twitter.com/Enceladosaurus). 
+Each tutorial will cover a specific topic or model in machine learning, and the code will be written in Python. Simpler models will be built in Jupyter Notebooks for ease of explanation and visualization, but later models will be script-only. 
+
+The code from each stream can be found in the `notebooks` folder and the blackboard notes in the `blackboard` folder. Detailed lecture notes, including math, relevant links, and whatnot will be added after the event has finished.
+For more information or if you have questions, please join the [Discord](https://discord.gg/4QUDdWn) or reach out on [Twitter](https://twitter.com/Enceladosaurus). 
