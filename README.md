@@ -1,3 +1,4 @@
+![mlmas banner](./ml-mas4.png)
 # Celebrating the 12 Days of Machine Learning-mas
 
 ## A tutorial-based streamathon covering the basics of machine learning
