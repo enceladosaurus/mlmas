@@ -3,18 +3,18 @@
 
 ## A tutorial-based streamathon covering the basics of machine learning
 ### About
-The 12 days of Machine Learning-mas are beginner-friendly tutorials on the basics of machine learning. The tutorials will be streamed on [Twitch](https://www.twitch.tv/enceladosaurus), and the vods will be posted on YouTube (exact location TBD). The code will be posted here following each lesson, and more detailed notes with deeper dives into the math and concepts will be posted following the event. 
+The 12 days of Machine Learning-mas are beginner-friendly tutorials on the basics of machine learning. The tutorials will be streamed on [Twitch](https://www.twitch.tv/enceladosaurus), and the vods will be posted on [YouTube](https://www.youtube.com/channel/UC4iaVdkBb_G67DoN5Xc3lKw). The code will be posted here following each lesson, and more detailed notes with deeper dives into the math and concepts will be posted following the event. 
 
 ### Schedule
-- Dec. 19th: Linear Regression
-- Dec. 20th: Logistic Regression
-- Dec. 21st: Classification
-- Dec. 27th: Ensembling - Random Forest
-- Dec. 28th: K-Means
-- Dec. 29th: Anomaly Detection
-- Dec. 30th: Reinforcement Learning
-- Jan. 2nd: Neural Nets 101
-- Jan. 4th: Q-Networks
+- [Dec. 19th: Linear Regression](https://www.youtube.com/watch?v=BiofI7OmT80&t=2s&ab_channel=Enceladosaurus)
+- [Dec. 20th: Logistic Regression](https://www.youtube.com/watch?v=beTPtKQVNF8&ab_channel=Enceladosaurus)
+- [Dec. 21st: Classification](https://www.youtube.com/watch?v=Uk0BvmUOco0&ab_channel=Enceladosaurus)
+- [Dec. 27th: Ensembling](https://www.youtube.com/watch?v=xjN2ZjbQDVY&t=28s&ab_channel=Enceladosaurus)
+- [Dec. 28th: Unsupervised Machine Learning](https://www.youtube.com/watch?v=XiQihN-1QyY&t=537s&ab_channel=Enceladosaurus)
+- [Dec. 29th: Anomaly Detection](https://www.youtube.com/watch?v=03dQB8lpoOo&ab_channel=Enceladosaurus)
+- [Dec. 30th: Intro to Reinforcement Learning](https://www.youtube.com/watch?v=UIeEzmFGY_0&ab_channel=Enceladosaurus)
+- [Jan. 2nd: Neural Nets 101](https://www.youtube.com/watch?v=9YYwluGdiXE&ab_channel=Enceladosaurus)
+- Jan. 4th: Advanced Reinforcement Learning
 - Jan. 6th: Network Analysis
 - Jan. 7th: Natural Language Processing
 - Jan. 8th: Computer Vision
