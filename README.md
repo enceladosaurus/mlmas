@@ -14,10 +14,10 @@ The 12 days of Machine Learning-mas are beginner-friendly tutorials on the basic
 - [Dec. 29th: Anomaly Detection](https://www.youtube.com/watch?v=03dQB8lpoOo&ab_channel=Enceladosaurus)
 - [Dec. 30th: Intro to Reinforcement Learning](https://www.youtube.com/watch?v=UIeEzmFGY_0&ab_channel=Enceladosaurus)
 - [Jan. 2nd: Neural Nets 101](https://www.youtube.com/watch?v=9YYwluGdiXE&ab_channel=Enceladosaurus)
-- Jan. 4th: Advanced Reinforcement Learning
-- Jan. 6th: Network Analysis
+- [Jan. 4th: Reinforcement Learning Part II](https://www.youtube.com/watch?v=zb1YzqeTprM&ab_channel=Enceladosaurus)
+- [Jan. 6th: Network Analysis](https://www.youtube.com/watch?v=9W3QcGb-zBI&ab_channel=Enceladosaurus)
 - Jan. 7th: Natural Language Processing
-- Jan. 8th: Computer Vision
+- [Jan. 8th: Computer Vision](https://www.youtube.com/watch?v=oUM-yOdQags&ab_channel=Enceladosaurus)
 
 
 ### Details
